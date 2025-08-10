@@ -1,6 +1,6 @@
 # Critical Interpretation Protocol (CIP) v3.0
 
-**Μορφολογικό Πρωτόκολλο Κριτικής Διερμηνείας - Enhanced Assemblage Architecture**
+**Enhanced Assemblage Architecture**
 
 ---
 
